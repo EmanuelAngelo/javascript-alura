@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto Alura JS aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmanuelAngelo/javascript-alura.git"
+  },
+  "author": "Emanuel Angelo",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/EmanuelAngelo/javascript-alura/issues"
+  },
+  "homepage": "https://github.com/EmanuelAngelo/javascript-alura#readme"
+}
